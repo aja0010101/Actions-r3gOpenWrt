@@ -19,4 +19,4 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 echo 'src-git lienol https://github.com/Lienol/openwrt-package' >>feeds.conf.default
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'src-git nas https://github.com/linkease/nas-packages' >>feeds.conf.default
+echo 'src-git n2n https://github.com/alecthw/openwrt-n2n' >>feeds.conf.default
